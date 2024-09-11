@@ -1,3 +1,3 @@
-# Odin-template
+# odin-linked_list
 
-LIVE PREVIEW - http://wnkinc.github.io/Odin-template
+LIVE PREVIEW - http://wnkinc.github.io/odin-linked_list
